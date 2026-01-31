@@ -10,13 +10,6 @@
 - ✅ 韩语 → `[ko]annyeonghaseyo`
 - ✅ 支持 `[verse]`, `[chorus]`, `[bridge]` 结构
 
-Automatically converts Chinese, Japanese, Korean, and other multilingual lyrics into ACE-Step compatible format with romanization tags like [zh], [ja], and [ko]. Supports standard song structure markers such as [verse], [chorus], and more.
-💡 No more manual pinyin or romanization! Enable true multilingual AI music generation.
-🎯 Features
-✅ Chinese → [zh]ni3 hao3
-✅ Japanese → [ja]konnichiwa
-✅ Korean → [ko]annyeonghaseyo
-✅ Preserves song sections: [verse], [chorus], [bridge], [outro]
 
 ## 🚀 安装 Installation
 ```bash
