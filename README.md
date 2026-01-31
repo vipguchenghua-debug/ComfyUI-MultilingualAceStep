@@ -10,11 +10,6 @@
 - ✅ 韩语 → `[ko]annyeonghaseyo`
 - ✅ 支持 `[verse]`, `[chorus]`, `[bridge]` 结构
 
-## 🚀 安装
-```bash
-git clone https://github.com/vipguchenghua-debug/ComfyUI-MultilingualAceStep.git
-pip install -r requirements.txt
-
 Automatically converts Chinese, Japanese, Korean, and other multilingual lyrics into ACE-Step compatible format with romanization tags like [zh], [ja], and [ko]. Supports standard song structure markers such as [verse], [chorus], and more.
 💡 No more manual pinyin or romanization! Enable true multilingual AI music generation.
 🎯 Features
@@ -22,7 +17,9 @@ Automatically converts Chinese, Japanese, Korean, and other multilingual lyrics 
 ✅ Japanese → [ja]konnichiwa
 ✅ Korean → [ko]annyeonghaseyo
 ✅ Preserves song sections: [verse], [chorus], [bridge], [outro]
-🚀 Installation
+
+## 🚀 安装 Installation
 ```bash
 git clone https://github.com/vipguchenghua-debug/ComfyUI-MultilingualAceStep.git
 pip install -r requirements.txt
+
