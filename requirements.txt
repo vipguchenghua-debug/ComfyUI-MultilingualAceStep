@@ -1,0 +1,8 @@
+# Chinese romanization (pinyin with tone numbers)
+pypinyin>=0.50.0
+
+# Japanese romanization (kana → Hepburn romanji)
+pykakasi>=2.2.1
+
+# Korean romanization (Hangul → Latin)
+korean-romanizer>=0.3.0
